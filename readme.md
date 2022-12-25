@@ -1,7 +1,7 @@
 # 🧙‍♂️👌
 
-**` Mi ez itten `**
+**` Rövid bemutatkozás `**
 
-Szöveg
+Samy vagyok :DD
 
 ---
