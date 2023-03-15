@@ -1,6 +1,7 @@
 # 🧙‍♂️👌
 
 **` Rövid bemutatkozás `**
+
 HU
 Samy vagyok :DD
 
