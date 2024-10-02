@@ -1,11 +1,11 @@
-# 🧙‍♂️👌
+# Hi, I am Samy | Samy vagyok
 
-**` Rövid bemutatkozás `**
-
-HU
-Samy vagyok :DD
+**` Short description | Rövid bemutatkozás `**
 
 EN
-I am Samy :DD
+Mechanical engineering student with strong interdisciplinary skills in mechatronics
+
+HU
+Gépészmérnök hallgató erős ismeretekkel a mechatronikában
 
 ---
